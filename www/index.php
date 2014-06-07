@@ -1,7 +1,5 @@
-<html>
-<head>
-</head>
-<body>
-Hello World!
-</body>
-</html>
+<?php
+
+echo "Hello World!";
+
+?>
